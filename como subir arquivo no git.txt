@@ -1,0 +1,13 @@
+Comandos para subir os arquivos no git:
+$ git init
+$ git add . 
+$ git commit -m "primeiro commit" 
+$ git branch -M main
+$ git remote add origin https://github.com/EmanuelSouzaMartins/Reconhecimento-de-Gestos.git
+$ git push -u origin main
+
+Atualizar repositório
+$ git add . 
+$ git commit -m "primeiro commit" 
+$ git pull origin main
+$ git push origin main
